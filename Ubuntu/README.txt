@@ -5,7 +5,7 @@ This package is to install IPTV framework.
 Installation instruction:
 	1- Open Ubuntu Terminal
 	2- Type:
-	   cd path/to/trctv && ./setup.sh
+	   cd path/to/trcTV/Ubuntu && ./setup.sh
 	3- After succesful installation, 
 	   Open a new terminal,
 	   Type:
