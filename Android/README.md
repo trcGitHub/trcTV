@@ -10,4 +10,8 @@
 ## ATTENTINON
 - Make sure that you allowed Unknown Sources from settings
 
-
+Turcom Technology
+<br>
+Software Team
+<br>
+2019
