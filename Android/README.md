@@ -9,5 +9,3 @@
 
 ## ATTENTINON
 - Make sure that you allowed Unknown Sources from settings
-
-
